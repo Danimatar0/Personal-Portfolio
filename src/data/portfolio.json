@@ -1,0 +1,175 @@
+{
+  "personal": {
+    "name": "Dani Matar",
+    "title": "Software Engineer",
+    "tagline": "Building scalable distributed systems with 5+ years of experience",
+    "email": "matardani2@gmail.com",
+    "location": "Beirut, Lebanon",
+    "resumeUrl": "#",
+    "social": {
+      "github": "https://github.com/Danimatar0",
+      "linkedin": "https://linkedin.com/in/danimatar",
+      "instagram": "https://instagram.com/danimatar"
+    }
+  },
+  "about": {
+    "bio": "I'm a passionate software engineer with over 5 years of experience specializing in building robust, scalable systems. My expertise spans across backend development with .NET and Python, automation pipelines, and distributed architectures that handle millions of requests.",
+    "highlights": [
+      "5+ years of professional software engineering experience",
+      "Expert in .NET ecosystem and Python development",
+      "Specialized in distributed systems and microservices",
+      "Strong focus on automation and DevOps practices",
+      "Passionate about clean code and system design"
+    ],
+    "image": ""
+  },
+  "skills": [
+    {
+      "category": "Backend Development",
+      "items": [".NET Core", "C#", "Python", "NodeJs", "REST APIs", "Golang"]
+    },
+    {
+      "category": "Distributed Systems",
+      "items": [
+        "Microservices",
+        "Message Queues",
+        "RabbitMQ",
+        "Kafka",
+        "Redis",
+        "gRPC"
+      ]
+    },
+    {
+      "category": "Automation & DevOps",
+      "items": ["CI/CD", "Docker", "GitHub Actions", "Terraform"]
+    },
+    {
+      "category": "Databases",
+      "items": ["PostgreSQL", "SQL Server", "MongoDB", "Redis", "Elasticsearch"]
+    },
+    {
+      "category": "Cloud & Infrastructure",
+      "items": ["AWS", "Linux", "Nginx", "Load Balancing"]
+    },
+    {
+      "category": "Tools & Practices",
+      "items": ["Git", "Agile/Scrum", "TDD", "System Design", "Code Review"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Odyssey CyberSecurity",
+      "role": "Mid-Senior Software Engineer",
+      "period": "2025 - Present",
+      "description": "Leading development of distributed backend systems processing millions of daily transactions.",
+      "highlights": [
+        "Architected microservices infrastructure handling 10M+ daily requests",
+        "Reduced system latency by 40% through caching strategies",
+        "Mentored team of 2 junior developers",
+        "Implemented Redis logs pipeline decreasing retrieval time by 60%"
+      ]
+    },
+    {
+      "company": "InMobiles S.A.L",
+      "role": "Software Engineer",
+      "period": "2022 - 2025",
+      "description": "Software development with focus on backend services and automation.",
+      "highlights": [
+        "Built RESTful APIs serving 50+ client applications",
+        "Developed automated deployment framework improving coverage to 85%",
+        "Architected and designed generic notification system, improving notifications delivery by 150%",
+        "Migrated legacy monolith to microservices architecture",
+        "Optimized database queries reducing load times by 50%"
+      ]
+    },
+    {
+      "company": "Tekwin Digital S.A.L",
+      "role": "Junior Software Developer",
+      "period": "2020 - 2022",
+      "description": "Full-stack development in an agile startup environment.",
+      "highlights": [
+        "Developed customer-facing features using Java Spring Boot and Flutter",
+        "Implemented payment integration processing $1M+ monthly",
+        "Created automated deployment scripts",
+        "Collaborated with cross-functional teams on product features"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Doctaura - Digital Health Platform",
+      "description": "A scalable distributed digital health platform built with .NET Core, React and PostgreSQL, capable of handling millions of concurrent patients appointment requests, online consultations, and more unique features.",
+      "tech": [".NET Core", "Redis", "Docker", "N8n", "RabbitMQ", "PostgreSQL"],
+      "github": "https://github.com/Danimatar0/doctaura-health-connect",
+      "demo": "",
+      "featured": true
+    },
+        {
+      "title": "Vehicle to Pedestrian Communication System",
+      "description": "A scalable distributed peer-to-peer communication system, preventing pedestrian collision through real-time communication between clients symbolizing vehicle drivers and pedestrians.",
+      "tech": [".NET Core", "Redis", "Docker", "MQTT", "PostgreSQL", "Flutter", "Google SDK"],
+      "github": "https://github.com/Danimatar0/doctaura-health-connect",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "title": "Distributed Task Scheduler",
+      "description": "A scalable distributed task scheduling system built with .NET Core and Redis, capable of handling millions of scheduled jobs with fault tolerance and horizontal scaling.",
+      "tech": [".NET Core", "Redis", "Docker", "Kubernetes", "PostgreSQL"],
+      "github": "https://github.com/danimatar/task-scheduler",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "title": "API Gateway Service",
+      "description": "High-performance API gateway with rate limiting, authentication, and request routing for microservices architecture.",
+      "tech": [
+        ".NET",
+        "Keycloak",
+        "HaProxy",
+        "Yarp",
+        "Redis",
+        "Docker",
+        "Nginx"
+      ],
+      "github": "https://github.com/Danimatar0/APIGateway-YARP",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "title": "Automation Pipeline Framework",
+      "description": "Extensible automation framework for CI/CD pipelines with support for multiple cloud providers and custom workflow definitions.",
+      "tech": ["Python", "GitHub Actions", "Terraform", "AWS"],
+      "github": "https://github.com/danimatar/automation-framework",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "title": "Houses/Apartments Rental Automation Pipeline",
+      "description": "Advanced automation workflow for houses & apartments rental, allowing seamless management of reservations, welcoming guests and cleaning services.",
+      "tech": ["N8n", "GitHub Actions", "Docker", "AI", "LLM", "Nginx"],
+      "github": "https://github.com/danimatar/automation-framework",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "title": "Real-time Analytics Dashboard",
+      "description": "Real-time data visualization dashboard processing streaming data from multiple sources with live updates.",
+      "tech": [
+        "React",
+        ".NET Core",
+        "SignalR",
+        "RabbitMQ",
+        "Elasticsearch",
+        "Kibana"
+      ],
+      "github": "https://github.com/danimatar/analytics-dashboard",
+      "demo": "",
+      "featured": false
+    }
+  ],
+  "contact": {
+    "heading": "Let's Work Together",
+    "message": "I'm always interested in hearing about new opportunities, challenging projects, or just connecting with fellow developers. Feel free to reach out!"
+  }
+}
